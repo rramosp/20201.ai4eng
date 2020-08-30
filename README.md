@@ -2,7 +2,7 @@
 
 # Video clases
 
-## Modulo 1. Introducción
+## Módulo 1. Introducción
 
 - **1.01 - ¿Qué es la inteligencia artificial para tí?** [Video 14mins](https://www.youtube.com/watch?v=y3mRk4C9tpM) - Desmitificamos el concepto de Inteligencia Artificial y te invitamos a reflexionar sobre el mismo.
 
@@ -18,7 +18,7 @@
 
 ## Modulo 2. Python
 
-## Modulo 3. Generación de modelos predictivos
+## Módulo 3. Generación de modelos predictivos
 
 - **3.01 - Calibración de un modelo 1D** [Video 20mins](https://www.youtube.com/watch?v=sqU23q_7X5M) - Describimos el proceso de calibración manual y analítica de un modelo muy sencillo .
 
@@ -35,3 +35,10 @@
 - **3.07 - Algoritmos supervisados. Naive Bayes** [Video 10mins](https://www.youtube.com/watch?v=3NPYwIzsYUU) - Mostramos la intuición detrás de los clasificadores gausianos, y cómo usarlos.
 
 - **3.08 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características, la intuición y utilización de las máquinas de soporte vectorial para clasificación.
+
+## Módulo 4. Gestión de datos
+
+- **4.01 - Exploración de datos** [Video 28mins](https://www.youtube.com/watch?v=Syw6CS4zY1E) - Nos enfrentamos por primera vez a un dataset de un problema real, basado en una competición de Kaggle.
+
+-**4.02 - Limpieza de datos** [Video 22mins](https://www.youtube.com/watch?v=35H5lbOh6zQ) - Mostramos los procesos de limpieza de datos y cómo evaluar las distintas decisiones que realizamos en el mismo. _**REVISAR**_
+
