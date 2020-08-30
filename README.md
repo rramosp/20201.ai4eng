@@ -12,9 +12,9 @@
 
 - **1.04 - Big Data, Machine Learning, Data Scientists y otros términos asociados** [Video 16mins](https://www.youtube.com/watch?v=qzBkSK2TFLA) - Revisamos varios conjuntos de tecnologías y términos asociados de manera más o menos directa a la inteligencia artificial y te sugerimos cómo considerarlos y organizarlos.
 
-- **1.05 - Introducción a notebooks de Jupyter y Google Colab** [Por grabar] - Introducimos la herramienta principal del curso para ejecutar código en Python.
+- **1.05 - Trabajando con los materiales del curso** [Video Parte 1 9mins](https://www.youtube.com/watch?v=WFFV9q1zwoE) - [Video Parte 2 7mins](https://www.youtube.com/watch?v=OaFKAAorssY) - Explicamos cómo completar los talleres y acceder a la plataforma donde podrás ver tu avance en el curso.
 
-- **1.06 - Talleres y plataforma de autocorrección** [Por grabar] - Explicamos cómo completar los talleres y acceder a la plataforma donde podrás ver tu avance en el curso.
+- **1.06 - Talleres y plataforma de autocorrección** [Video 15mins](https://www.youtube.com/watch?v=Jsn77W9j_X8) - Explicamos cómo completar los talleres y acceder a la plataforma donde podrás ver tu avance en el curso.
 
 ## Modulo 2. Python
 
