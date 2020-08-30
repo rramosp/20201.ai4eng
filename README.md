@@ -15,3 +15,15 @@
 - **1.05 - Introducción a notebooks de Jupyter y Google Colab** [Por grabar] - Introducimos la herramienta principal del curso para ejecutar código en Python.
 
 - **1.06 - Talleres y plataforma de autocorrección** [Por grabar] - Explicamos cómo completar los talleres y acceder a la plataforma donde podrás ver tu avance en el curso.
+
+## Modulo 2. Python
+
+## Modulo 3. Generación de modelos predictivos
+
+- **3.01 - Calibración de un modelo 1D** [Video 20mins](https://www.youtube.com/watch?v=sqU23q_7X5M) - Describimos el proceso de calibración manual y analítica de un modelo muy sencillo .
+
+- **3.02 - Calibración con datos y fronteras de clasificación** [Video 25mins](https://www.youtube.com/watch?v=yGX1o7-1cVU) - Realizamos el proceso de calibración con datos, introducimos el concepto de frontera bayesiana y aumentamos la complejidad del ejemplo, generando fronteras de clasificación en 2D.
+
+- **3.03 - Complejidad de los datos vs complejidad de los modelos** [Video 22mins](https://www.youtube.com/watch?v=MP7E9b5jhkw) - Explicamos la noción de capacidad de generalización de un modelo y una intuición sobre la complejidad de las fronteras generadas. Vemos cómo usamos los _hiperparámetros_ de distintos algoritmos para regular dicha complejidad y como podemos desarrollar algunas pistas sobre la relación entre la complejidad de los datos y la de los modelos generados.
+
+
