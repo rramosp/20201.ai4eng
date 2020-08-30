@@ -42,7 +42,7 @@
 
 - **3.08 - Algoritmos supervisados. Naive Bayes** [Video 10mins](https://www.youtube.com/watch?v=3NPYwIzsYUU) - Mostramos la intuición detrás de los clasificadores gausianos, y cómo usarlos.
 
-- **3.09 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características, la intuición y utilización de las máquinas de soporte vectorial para clasificación.
+- **3.09 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características y la intuición y utilización de las máquinas de soporte vectorial para clasificación.
 
 - **LAB 03.01 - MODEL GENERATION** [POR GRABAR] - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
 
