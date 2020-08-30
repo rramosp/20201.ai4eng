@@ -18,7 +18,7 @@
 
 - **LAB 01.01 - PRACTICE SUBMISSION** [POR GRABAR] - Este primer taller sirve para familiarizarse con el mecanismo de envío de talleres sobre la plataforma de corrección automática.
 
-- **LAB 01.02 - METRICS** [Video 22mins](https://www.youtube.com/watch?v=8mp9T1v9ezc) - Cçalculo de métricas de desempeño sobre tareas de Kaggle.
+- **LAB 01.02 - METRICS** [Video 22mins](https://www.youtube.com/watch?v=8mp9T1v9ezc) - Cálculo de métricas de desempeño sobre tareas de Kaggle.
 
 ## Modulo 2. Python
 
