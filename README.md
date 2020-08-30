@@ -22,7 +22,7 @@
 
 ## Modulo 2. Python
 
-- **2.01 - Introducción a los Notebooks de Jupyter** [POR GRABAR] - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
+- **2.01 - Introducción a los Notebooks de Jupyter** [Video* 13mins](https://www.youtube.com/watch?v=vDTLb2eTtCE) - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
 
 ## Módulo 3. Generación de modelos predictivos
 
