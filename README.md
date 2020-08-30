@@ -16,7 +16,7 @@
 
 - **1.06 - Talleres y plataforma de autocorrección** [Video 15mins](https://www.youtube.com/watch?v=Jsn77W9j_X8) - Explicamos cómo completar los talleres y acceder a la plataforma donde podrás ver tu avance en el curso.
 
-- **LAB 01.01 - PRACTICE SUBMISSION** [POR GRABAR] - Este primer taller sirve para familiarizarse con el mecanismo de envío de talleres sobre la plataforma de corrección automática.
+- **LAB 01.01 - PRACTICE SUBMISSION** [Video* 9mins](https://youtu.be/4tS3BjfxM78) - Este primer taller sirve para familiarizarse con el mecanismo de envío de talleres sobre la plataforma de corrección automática.
 
 - **LAB 01.02 - METRICS** [Video 22mins](https://www.youtube.com/watch?v=8mp9T1v9ezc) - Cálculo de métricas de desempeño sobre tareas de Kaggle.
 
