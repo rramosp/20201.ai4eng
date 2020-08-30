@@ -24,6 +24,8 @@
 
 - **3.02 - Calibración con datos y fronteras de clasificación** [Video 25mins](https://www.youtube.com/watch?v=yGX1o7-1cVU) - Realizamos el proceso de calibración con datos, introducimos el concepto de frontera bayesiana y aumentamos la complejidad del ejemplo, generando fronteras de clasificación en 2D.
 
-- **3.03 - Complejidad de los datos vs complejidad de los modelos** [Video 22mins](https://www.youtube.com/watch?v=MP7E9b5jhkw) - Explicamos la noción de capacidad de generalización de un modelo y una intuición sobre la complejidad de las fronteras generadas. Vemos cómo usamos los _hiperparámetros_ de distintos algoritmos para regular dicha complejidad y como podemos desarrollar algunas pistas sobre la relación entre la complejidad de los datos y la de los modelos generados.
+- **3.03 - Complejidad de los datos vs complejidad de los modelos** [Video 22mins](https://www.youtube.com/watch?v=MP7E9b5jhkw) -  Vemos cómo usamos los _hiperparámetros_ de distintos algoritmos para regular complejidad de las fronteras generadas por los modelos y cómo podemos desarrollar algunas pistas sobre su relación con la complejidad de los datos.
+
+- **3.04 - Métricas de desempeño**
 
 
