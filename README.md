@@ -28,4 +28,10 @@
 
 - **3.04 - Métricas de desempeño** [Video 24mins](https://www.youtube.com/watch?v=3e2wWllq5NE) - Mostramos algunas métricas para medir el desempeño de los modelos y explicamos la relación con las métricas de negocio.
 
+- **3.05 - Algoritmos supervisados. Clasificación lineal** [Video 22mins](https://www.youtube.com/watch?v=Srbcs4Pumt8) - Explicamos cómo usar la regresión logística en Python.
 
+- **3.06 - Algoritmos supervisados. Árboles y bosques de decisión** [Video 17mins](https://www.youtube.com/watch?v=kLC3Zfgz8y8) - Mostramos la intuición detrás de los árboles de decisión y los random forests, y cómo usarlos.
+
+- **3.07 - Algoritmos supervisados. Naive Bayes** [Video 10mins](https://www.youtube.com/watch?v=3NPYwIzsYUU) - Mostramos la intuición detrás de los clasificadores gausianos, y cómo usarlos.
+
+- **3.08 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características, la intuición y utilización de las máquinas de soporte vectorial para clasificación.
