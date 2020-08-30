@@ -8,7 +8,7 @@
 
 - **1.02 - Ejemplos de aplicaciones de inteligencia artificial** [Video 19min](https://www.youtube.com/watch?v=javJB3_oQK4) - Mostramos algunos ejemplos de aplicaciones y modelos realizados con técnicas de Machine Learning y analzamos ciertas consideraciones respecto a su dessarrollo y diseño.
 
-- **1.03 - ¡Qué es un modelo derivado de los datos?** [Video 15mins](https://www.youtube.com/watch?v=k8S5OKEkKVI) - Explicamos cómo las técnicas de Machine Learning generan modelos predictivos, a través de procesos calibración basados en datos anotados.
+- **1.03 - ¿Qué es un modelo derivado de los datos?** [Video 15mins](https://www.youtube.com/watch?v=k8S5OKEkKVI) - Explicamos cómo las técnicas de Machine Learning generan modelos predictivos, a través de procesos calibración basados en datos anotados.
 
 - **1.04 - Big Data, Machine Learning, Data Scientists y otros términos asociados** [Video 16mins](https://www.youtube.com/watch?v=qzBkSK2TFLA) - Revisamos varios conjuntos de tecnologías y términos asociados de manera más o menos directa a la inteligencia artificial y te sugerimos cómo considerarlos y organizarlos.
 
