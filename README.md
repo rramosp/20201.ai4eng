@@ -18,6 +18,8 @@
 
 ## Modulo 2. Python
 
+- **2.01 - Introducción a los Notebooks de Jupyter** [POR GRABAR] - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
+
 ## Módulo 3. Generación de modelos predictivos
 
 - **3.01 - Calibración de un modelo 1D** [Video 20mins](https://www.youtube.com/watch?v=sqU23q_7X5M) - Describimos el proceso de calibración manual y analítica de un modelo muy sencillo .
@@ -40,5 +42,5 @@
 
 - **4.01 - Exploración de datos** [Video 28mins](https://www.youtube.com/watch?v=Syw6CS4zY1E) - Nos enfrentamos por primera vez a un dataset de un problema real, basado en una competición de Kaggle.
 
--**4.02 - Limpieza de datos** [Video 22mins](https://www.youtube.com/watch?v=35H5lbOh6zQ) - Mostramos los procesos de limpieza de datos y cómo evaluar las distintas decisiones que realizamos en el mismo. _**REVISAR**_
+- **4.02 - Limpieza de datos** [Video 22mins](https://www.youtube.com/watch?v=35H5lbOh6zQ) - Mostramos los procesos de limpieza de datos y cómo evaluar las distintas decisiones que realizamos en el mismo. _**REVISAR, incluir un video sobre hipothesis testing, p-values**_
 
