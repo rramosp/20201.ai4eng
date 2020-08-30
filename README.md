@@ -16,6 +16,10 @@
 
 - **1.06 - Talleres y plataforma de autocorrección** [Video 15mins](https://www.youtube.com/watch?v=Jsn77W9j_X8) - Explicamos cómo completar los talleres y acceder a la plataforma donde podrás ver tu avance en el curso.
 
+- **LAB 01.01 - PRACTICE SUBMISSION** [POR GRABAR] - Este primer taller sirve para familiarizarse con el mecanismo de envío de talleres sobre la plataforma de corrección automática.
+
+- **LAB 01.02 - METRICS** [Video 22mins](https://www.youtube.com/watch?v=8mp9T1v9ezc) - Cçalculo de métricas de desempeño sobre tareas de Kaggle.
+
 ## Modulo 2. Python
 
 - **2.01 - Introducción a los Notebooks de Jupyter** [POR GRABAR] - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
@@ -37,6 +41,10 @@
 - **3.07 - Algoritmos supervisados. Naive Bayes** [Video 10mins](https://www.youtube.com/watch?v=3NPYwIzsYUU) - Mostramos la intuición detrás de los clasificadores gausianos, y cómo usarlos.
 
 - **3.08 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características, la intuición y utilización de las máquinas de soporte vectorial para clasificación.
+
+- **LAB 03.01 - MODEL GENERATION** [POR GRABAR] - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
+
+- **LAB 03.02 - TIME SERIES MODEL** [POR GRABAR] - Creamos un dataset desde una serie temporal, generamos un modelo de regresión lineal y medimos su desempeño.
 
 ## Módulo 4. Gestión de datos
 
