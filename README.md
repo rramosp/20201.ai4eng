@@ -26,6 +26,6 @@
 
 - **3.03 - Complejidad de los datos vs complejidad de los modelos** [Video 22mins](https://www.youtube.com/watch?v=MP7E9b5jhkw) -  Vemos cómo usamos los _hiperparámetros_ de distintos algoritmos para regular complejidad de las fronteras generadas por los modelos y cómo podemos desarrollar algunas pistas sobre su relación con la complejidad de los datos.
 
-- **3.04 - Métricas de desempeño**
+- **3.04 - Métricas de desempeño** [Video 24mins](https://www.youtube.com/watch?v=3e2wWllq5NE) - Mostramos algunas métricas para medir el desempeño de los modelos y explicamos la relación con las métricas de negocio.
 
 
