@@ -26,21 +26,23 @@
 
 ## Módulo 3. Generación de modelos predictivos
 
-- **3.01 - Calibración de un modelo 1D** [Video 20mins](https://www.youtube.com/watch?v=sqU23q_7X5M) - Describimos el proceso de calibración manual y analítica de un modelo muy sencillo .
+- **3.01 - Flujo de trabajo de Machine Learning** [Video 10mins](https://www.youtube.com/watch?v=VicKyzFGBM0) - Explicamos el flujo de trabajo general que se realiza al desarrollar modelos de Machine Learning.
 
-- **3.02 - Calibración con datos y fronteras de clasificación** [Video 25mins](https://www.youtube.com/watch?v=yGX1o7-1cVU) - Realizamos el proceso de calibración con datos, introducimos el concepto de frontera bayesiana y aumentamos la complejidad del ejemplo, generando fronteras de clasificación en 2D.
+- **3.02 - Calibración de un modelo 1D** [Video 20mins](https://www.youtube.com/watch?v=sqU23q_7X5M) - Describimos el proceso de calibración manual y analítica de un modelo muy sencillo .
 
-- **3.03 - Complejidad de los datos vs complejidad de los modelos** [Video 22mins](https://www.youtube.com/watch?v=MP7E9b5jhkw) -  Vemos cómo usamos los _hiperparámetros_ de distintos algoritmos para regular complejidad de las fronteras generadas por los modelos y cómo podemos desarrollar algunas pistas sobre su relación con la complejidad de los datos.
+- **3.03 - Calibración con datos y fronteras de clasificación** [Video 25mins](https://www.youtube.com/watch?v=yGX1o7-1cVU) - Realizamos el proceso de calibración con datos, introducimos el concepto de frontera bayesiana y aumentamos la complejidad del ejemplo, generando fronteras de clasificación en 2D.
 
-- **3.04 - Métricas de desempeño** [Video 24mins](https://www.youtube.com/watch?v=3e2wWllq5NE) - Mostramos algunas métricas para medir el desempeño de los modelos y explicamos la relación con las métricas de negocio.
+- **3.04 - Complejidad de los datos vs complejidad de los modelos** [Video 22mins](https://www.youtube.com/watch?v=MP7E9b5jhkw) -  Vemos cómo usamos los _hiperparámetros_ de distintos algoritmos para regular complejidad de las fronteras generadas por los modelos y cómo podemos desarrollar algunas pistas sobre su relación con la complejidad de los datos.
 
-- **3.05 - Algoritmos supervisados. Clasificación lineal** [Video 22mins](https://www.youtube.com/watch?v=Srbcs4Pumt8) - Explicamos cómo usar la regresión logística en Python.
+- **3.05 - Métricas de desempeño** [Video 24mins](https://www.youtube.com/watch?v=3e2wWllq5NE) - Mostramos algunas métricas para medir el desempeño de los modelos y explicamos la relación con las métricas de negocio.
 
-- **3.06 - Algoritmos supervisados. Árboles y bosques de decisión** [Video 17mins](https://www.youtube.com/watch?v=kLC3Zfgz8y8) - Mostramos la intuición detrás de los árboles de decisión y los random forests, y cómo usarlos.
+- **3.06 - Algoritmos supervisados. Clasificación lineal** [Video 22mins](https://www.youtube.com/watch?v=Srbcs4Pumt8) - Explicamos cómo usar la regresión logística en Python.
 
-- **3.07 - Algoritmos supervisados. Naive Bayes** [Video 10mins](https://www.youtube.com/watch?v=3NPYwIzsYUU) - Mostramos la intuición detrás de los clasificadores gausianos, y cómo usarlos.
+- **3.07 - Algoritmos supervisados. Árboles y bosques de decisión** [Video 17mins](https://www.youtube.com/watch?v=kLC3Zfgz8y8) - Mostramos la intuición detrás de los árboles de decisión y los random forests, y cómo usarlos.
 
-- **3.08 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características, la intuición y utilización de las máquinas de soporte vectorial para clasificación.
+- **3.08 - Algoritmos supervisados. Naive Bayes** [Video 10mins](https://www.youtube.com/watch?v=3NPYwIzsYUU) - Mostramos la intuición detrás de los clasificadores gausianos, y cómo usarlos.
+
+- **3.09 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características, la intuición y utilización de las máquinas de soporte vectorial para clasificación.
 
 - **LAB 03.01 - MODEL GENERATION** [POR GRABAR] - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
 
