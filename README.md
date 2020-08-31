@@ -24,7 +24,7 @@
 
 - **2.01 - Introducción a los Notebooks de Jupyter** [Video* 13mins](https://www.youtube.com/watch?v=vDTLb2eTtCE) - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
 
-- **2.02 - Variables y tipos** [Video] - Python es un lenguaje interpretado y con asignación dinámica de tipos de datos
+- **2.02 - Variables y tipos** [Video* 12mins](https://youtu.be/kD_LfMOhTdc) - Python es un lenguaje interpretado y con asignación dinámica de tipos de datos
 
 - **2.03 - Bucles y estructuras de control** [Video] - Python es un lenguage _indentado_, los bucles son muy versátiles y se realizan sobre _iterables_
 
