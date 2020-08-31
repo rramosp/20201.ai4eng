@@ -2,11 +2,54 @@
 
 ## 20201.ai4eng 2020 Semestre 1 - Universidad de Antioquia
 
-# 1. Evaluación
+
+
+# 1. Programa y Calendario
+
+    week start      MARTES 10:00-12:00          JUEVES 13:00-15:00
+    ------------------------------------------------------------------------------
+    W1      30/ago  M1.INTRO                    PROY/LAB
+    W2      07/sep  M2.PYTHON                   PROY/LAB
+    W3      14/sep  M2.PYTHON                   PROY/LAB
+    W4      21/sep  PROY/LAB                    PROY/LAB         
+    W5      28/sep  M3.MODEL_CALIBRATION        PROY/LAB         
+    W6      05/oct  M3.MODEL_CALIBRATION        PROY/LAB
+    W7      12/oct  PROY/LAB                    PROY/LAB         
+    W8      19/oct  M4.DATA_MANAGEMENT          PROY/LAB           
+    W9      26/oct  M4.DATA_MANAGEMENT          PROY/LAB         
+    W10     02/nov  M5.MODEL_MANAGEMENT         PROY/LAB         
+    W11     09/nov  M5.MODEL_MANAGEMENT         PROY/LAB         
+    W12     16/nov  PROY/LAB                    PROY/LAB
+    W13     23/nov  M6.UNSUPERVISED             PROY/LAB
+    W14     30/nov  M7.ALGO_DESIGN              PROY/LAB
+    W15     07/dic  M7.ALGO_DESIGN              PROY/LAB
+    W16     14/dic  PROY/LAB                    PROY/LAB
+
+### Calendario
+
+     1/sep/2020     Inicio de clases
+    26/oct/2020     Evaluación 40%
+    18/dic/2020     Fin clases
+    18-23/ene/2021  Exámenes finales
+    25-30/ene/2021  Habilitación y validación
+     1/feb/2021     Terminación oficial
+    
+    
+# 2. Evaluación
 
     50% LABS
     20% AI4Everyone
     30% PROYECTO
+
+
+### Fechas de entregas
+
+    01/nov/2020     PROYECTO ENTREGA 1
+    09/nov/2020     LABS 1-4
+    18/dic/2020     Certificado AI4ALL
+    15/ene/2021     LABS 5-7
+    23/ene/2021     PROYECTO ENTREGA 2
+
 
 ### Proyecto
 
@@ -38,16 +81,6 @@ Tendrás que hacer dos entregas:
 Deberás de completar el curso [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/). Los quizes incluirán preguntas sobre el mismo según se indica más arriba
 
 Deberás de depositar el certificado de compleción en un fichero llamado **CERTIFICADO_IA4EVERYONE.pdf** en la carpeta compartida del curso.
-
-
-# 2. Calendario
-
-     1/sep/2020     Inicio de clases
-    26/oct/2020     Evaluación 40%
-    18/dic/2020     Fin clases
-    18-23/ene/2021  Exámenes finales
-    25-30/ene/2021  Habilitación y validación
-     1/feb/2021     Terminación oficial
 
 # 3. Video clases
 
