@@ -1,4 +1,42 @@
-# 20201.ai4eng
+# 20201.ai4eng Inteligencia Artificial para las Ciencias e Ingenierías
+
+## Evaluación
+
+    60% LABS 1-8
+    20% AI4Everyone
+    20% PROYECTO
+
+## PROYECTO
+
+Tendrás que hacer un proyecto de analítica de datos para el cual deberás:
+
+1. Definir un problema predictivo
+2. Obtener un dataset para resolverlo
+3. Realizar el preprocesado y limpieza de datos
+4. Encontrar los mejores hiperparámetros para DOS algoritmos predictivos
+5. Encontrar los mejores hiperparámetros para DOS combinaciones de algoritmo no supervisado + algoritmo predictivo
+6. Realizar las curvas de aprendizaje  para cada uno de los cuatro casos anteriores
+7. Realizar una evaluación diagnóstica que contenga:
+    1. Para cada uno de los cuatro casos anteriores un diagnóstico de overfitting/bias etc.
+    1. Una recomendación justificada de qué pasos a seguir si tuvieras que intentar mejorar el desempeño obtenido.
+    1. Una evaluación sobre los retos y condiciones para desplegar en producción un modelo (como establecerías el nivel de desempeño mínimo para desplegar en producción, cómo se desplegaría en producción, cómo serían los procesos de monitoreo del desempeño en producción)
+
+#### ENTREGAS
+
+Tendrás que hacer dos entregas:
+
+- **ENTREGA 1**: Un archivo llamado **PROYECTO_FASE1.pdf** en el que describas el problema predictivo a resolver, el dataset que vas a utilizar y las métricas de desempeño requeridas. Incluye igualmente un primer criterio sobre cual sería el desempeño deseable en producción (pasos 1 y 2).
+- **ENTREGA 2**: Un archivo llamado **PROYECTO_FASE2.pdf** en el que describas el resto de la ejecucióndel proyecto, con la evidencia necesaria. Tendrás que incluir una carpeta llamada **PROYECTO_FASE2_MATERIALES** donde incluyas todas las herramientas necesarias para reproducir los resultados que obtuviste (muestras de los datasets, notebooks, instrucciones de uso de las herramientas que hayas usado, etc.)
+
+**TODAS LAS ENTREGAS HAN DE DEPOSITARSE EN LA CARPETA DRIVE DE CADA ESTUDIANTE**.
+
+
+## AI for Everyone
+
+Deberás de completar el curso [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/). Los quizes incluirán preguntas sobre el mismo según se indica más arriba
+
+Deberás de depositar el certificado de compleción en un fichero llamado **CERTIFICADO_IA4EVERYONE.pdf** en la carpeta compartida del curso.
+
 
 # Calendario
 
