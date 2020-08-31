@@ -2,7 +2,7 @@
 
 ## 2020 Semestre 1 - Universidad de Antioquia
 
-[PLATAFORMA DE CALIFICACIONES AUTOMÁTICAS](https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc/web/login)
+[PLATAFORMA DE CALIFICACIONES AUTOMÁTICAS](https://m5knaekxo6.execute-api.us-west-2.amazonaws.com/dev-v0001/rlxmooc/web/login) || [REGISTRO DE GRUPOS DE PROYECTO](https://forms.gle/r8hoDrLTHcXF6vgS7) (solo un registro por grupo)
 
 # 1. Programa y Calendario
 
