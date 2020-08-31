@@ -112,7 +112,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **2.04 - Bucles y estructuras de control** [Video* 17mins](https://youtu.be/rWik0OaEbXQ) - Python es un lenguage _indentado_, los bucles son muy versátiles y se realizan sobre _iterables_
 
-- **2.05 - Diccionarios y tuplas** [Video] - Los diccionarios son una estructura de datos muy utilizada en Python.
+- **2.05 - Diccionarios y tuplas** [Video* 9mins](https://youtu.be/74ym2aqpgV4) - Los diccionarios son una estructura de datos muy utilizada en Python.
 
 ## Módulo 3. Generación de modelos predictivos
 
