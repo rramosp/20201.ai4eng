@@ -1,5 +1,14 @@
 # 20201.ai4eng
 
+# Calendario
+
+     1/sep/2020     Inicio de clases
+    26/oct/2020     Evaluación 40%
+    18/dic/2020     Fin clases
+    18-23/ene/2021  Exámenes finales
+    25-30/ene/2021  Habilitación y validación
+     1/feb/2021     Terminación oficial
+
 # Video clases
 
 ## Módulo 1. Introducción
