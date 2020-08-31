@@ -1,6 +1,6 @@
 # Inteligencia Artificial para las Ciencias e Ingenierías
 
-## 20201.ai4eng 2020 Semestre 1 - Universidad de Antioquia
+## 2020 Semestre 1 - Universidad de Antioquia
 
 
 
@@ -46,7 +46,7 @@
 
     01/nov/2020     PROYECTO ENTREGA 1
     09/nov/2020     LABS 1-4
-    18/dic/2020     Certificado AI4ALL
+    18/dic/2020     Certificado AI for Everyone
     15/ene/2021     LABS 5-7
     23/ene/2021     PROYECTO ENTREGA 2
 
