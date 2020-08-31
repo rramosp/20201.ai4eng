@@ -26,9 +26,11 @@
 
 - **2.02 - Variables y tipos** [Video* 12mins](https://youtu.be/kD_LfMOhTdc) - Python es un lenguaje interpretado y con asignación dinámica de tipos de datos
 
-- **2.03 - Bucles y estructuras de control** [Video] - Python es un lenguage _indentado_, los bucles son muy versátiles y se realizan sobre _iterables_
+- **2.03 - Listas** [Video* 16mins](https://youtu.be/4IkAoFAjTeM) - Creación y manipulación de listas, sintaxis de indexado.  
 
-- **2.04 - Diccionarios y tuplas** [Video] - Los diccionarios son una estructura de datos muy utilizada en Python.
+- **2.04 - Bucles y estructuras de control** [Video] - Python es un lenguage _indentado_, los bucles son muy versátiles y se realizan sobre _iterables_
+
+- **2.05 - Diccionarios y tuplas** [Video] - Los diccionarios son una estructura de datos muy utilizada en Python.
 
 ## Módulo 3. Generación de modelos predictivos
 
