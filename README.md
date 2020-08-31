@@ -44,6 +44,7 @@
 
 ### Fechas de entregas
 
+    01/oct/2020     REGISTRO GRUPOS DE PROYECTO
     01/nov/2020     PROYECTO ENTREGA 1
     09/nov/2020     LABS 1-4
     18/dic/2020     Certificado AI for Everyone
@@ -65,6 +66,8 @@ Tendrás que hacer un proyecto de analítica de datos para el cual deberás:
     1. Para cada uno de los cuatro casos anteriores un diagnóstico de overfitting/bias etc.
     1. Una recomendación justificada de qué pasos a seguir si tuvieras que intentar mejorar el desempeño obtenido.
     1. Una evaluación sobre los retos y condiciones para desplegar en producción un modelo (como establecerías el nivel de desempeño mínimo para desplegar en producción, cómo se desplegaría en producción, cómo serían los procesos de monitoreo del desempeño en producción)
+
+**Podrán formarse grupos de 2 o 3 estudiantes**
 
 #### Entregas del proyecto
 
