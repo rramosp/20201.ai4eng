@@ -66,9 +66,9 @@ Tendrás que hacer un proyecto de analítica de datos para el cual deberás:
     1. Una recomendación justificada de qué pasos a seguir si tuvieras que intentar mejorar el desempeño obtenido.
     1. Una evaluación sobre los retos y condiciones para desplegar en producción un modelo (como establecerías el nivel de desempeño mínimo para desplegar en producción, cómo se desplegaría en producción, cómo serían los procesos de monitoreo del desempeño en producción)
 
-#### ENTREGAS
+#### Entregas del proyecto
 
-Tendrás que hacer dos entregas:
+Tendrás que hacer dos entregas del proyecto:
 
 - **ENTREGA 1**: Un archivo llamado **PROYECTO_FASE1.pdf** en el que describas el problema predictivo a resolver, el dataset que vas a utilizar y las métricas de desempeño requeridas. Incluye igualmente un primer criterio sobre cual sería el desempeño deseable en producción (pasos 1 y 2).
 - **ENTREGA 2**: Un archivo llamado **PROYECTO_FASE2.pdf** en el que describas el resto de la ejecucióndel proyecto, con la evidencia necesaria. Tendrás que incluir una carpeta llamada **PROYECTO_FASE2_MATERIALES** donde incluyas todas las herramientas necesarias para reproducir los resultados que obtuviste (muestras de los datasets, notebooks, instrucciones de uso de las herramientas que hayas usado, etc.)
