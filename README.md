@@ -1,12 +1,14 @@
-# 20201.ai4eng Inteligencia Artificial para las Ciencias e Ingenierías
+# Inteligencia Artificial para las Ciencias e Ingenierías
 
-## Evaluación
+## 20201.ai4eng 2020 Semestre 1 - Universidad de Antioquia
 
-    60% LABS 1-8
+# 1. Evaluación
+
+    50% LABS
     20% AI4Everyone
-    20% PROYECTO
+    30% PROYECTO
 
-## PROYECTO
+### Proyecto
 
 Tendrás que hacer un proyecto de analítica de datos para el cual deberás:
 
@@ -31,14 +33,14 @@ Tendrás que hacer dos entregas:
 **TODAS LAS ENTREGAS HAN DE DEPOSITARSE EN LA CARPETA DRIVE DE CADA ESTUDIANTE**.
 
 
-## AI for Everyone
+### AI for Everyone
 
 Deberás de completar el curso [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/). Los quizes incluirán preguntas sobre el mismo según se indica más arriba
 
 Deberás de depositar el certificado de compleción en un fichero llamado **CERTIFICADO_IA4EVERYONE.pdf** en la carpeta compartida del curso.
 
 
-# Calendario
+# 2. Calendario
 
      1/sep/2020     Inicio de clases
     26/oct/2020     Evaluación 40%
@@ -47,7 +49,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
     25-30/ene/2021  Habilitación y validación
      1/feb/2021     Terminación oficial
 
-# Video clases
+# 3. Video clases
 
 ## Módulo 1. Introducción
 
