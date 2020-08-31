@@ -24,6 +24,12 @@
 
 - **2.01 - Introducción a los Notebooks de Jupyter** [Video* 13mins](https://www.youtube.com/watch?v=vDTLb2eTtCE) - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
 
+- **2.02 - Variables y tipos** [Video] - Python es un lenguaje interpretado y con asignación dinámica de tipos de datos
+
+- **2.03 - Bucles y estructuras de control** [Video] - Python es un lenguage _indentado_, los bucles son muy versátiles y se realizan sobre _iterables_
+
+- **2.04 - Diccionarios y tuplas** [Video] - Los diccionarios son una estructura de datos muy utilizada en Python.
+
 ## Módulo 3. Generación de modelos predictivos
 
 - **3.01 - Flujo de trabajo de Machine Learning** [Video 10mins](https://www.youtube.com/watch?v=VicKyzFGBM0) - Explicamos el flujo de trabajo general que se realiza al desarrollar modelos de Machine Learning.
