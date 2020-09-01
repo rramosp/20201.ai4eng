@@ -10,7 +10,7 @@
 
 # 1. Programa y Calendario
 
-    week start      MARTES 10:00-12:00          JUEVES 13:00-15:00
+    week start      MARTES 10:00-12:00          JUEVES 10:00-12:00
     ------------------------------------------------------------------------------
     W1      30/ago  M1.INTRO                    PROY/LAB
     W2      07/sep  M2.PYTHON                   PROY/LAB
