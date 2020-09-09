@@ -141,9 +141,9 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **3.09 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características y la intuición y utilización de las máquinas de soporte vectorial para clasificación.
 
-- **LAB 03.01 - MODEL GENERATION** [Video 16mins](https://youtu.be/trD-zmv6Rww) - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
+- **LAB 03.01 - MODEL GENERATION** [Video* 16mins](https://youtu.be/trD-zmv6Rww) - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
 
-- **LAB 03.02 - TIME SERIES MODEL** [POR GRABAR] - Creamos un dataset desde una serie temporal, generamos un modelo de regresión lineal y medimos su desempeño.
+- **LAB 03.02 - TIME SERIES MODEL** [Video* 16mins](https://youtu.be/y6KNspJuEO0) - Creamos un dataset desde una serie temporal, generamos un modelo de regresión lineal y medimos su desempeño.
 
 ## Módulo 4. Gestión de datos
 
