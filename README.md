@@ -156,8 +156,5 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 - **4.04 - Visión sobre datos faltantes** [Video** 3mins](https://youtu.be/sIEyRCrS8dk) - Mostramos como tener una visión global sobre las variables faltantes de un dataset.
 
 
-
-- **4.01 - Exploración de datos** [Video 28mins](https://www.youtube.com/watch?v=Syw6CS4zY1E) - Nos enfrentamos por primera vez a un dataset de un problema real, basado en una competición de Kaggle.
-
 - **4.02 - Limpieza de datos** [Video 22mins](https://www.youtube.com/watch?v=35H5lbOh6zQ) - Mostramos los procesos de limpieza de datos y cómo evaluar las distintas decisiones que realizamos en el mismo. _**REVISAR, incluir un video sobre hipothesis testing, p-values**_
 
