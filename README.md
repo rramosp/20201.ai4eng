@@ -111,15 +111,15 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 ## Modulo 2. Python
 
-- **2.01 - Introducción a los Notebooks de Jupyter** [Video* 13mins](https://www.youtube.com/watch?v=vDTLb2eTtCE) - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
+- **2.01 - Introducción a los Notebooks de Jupyter** [Video 13mins](https://youtu.be/AKvAD1aE-30) - Describimos una de las herramientas que más usa en ciencia de datos y que vamos a usar en este curso.
 
-- **2.02 - Variables y tipos** [Video* 12mins](https://youtu.be/kD_LfMOhTdc) - Python es un lenguaje interpretado y con asignación dinámica de tipos de datos
+- **2.02 - Variables y tipos** [Video 12mins](https://youtu.be/UtULxGfN-zw) - Python es un lenguaje interpretado y con asignación dinámica de tipos de datos
 
-- **2.03 - Listas** [Video* 16mins](https://youtu.be/4IkAoFAjTeM) - Creación y manipulación de listas, sintaxis de indexado.  
+- **2.03 - Listas** [Video 16mins](https://youtu.be/4P7URoRwNXU) - Creación y manipulación de listas, sintaxis de indexado.  
 
-- **2.04 - Bucles y estructuras de control** [Video* 17mins](https://youtu.be/rWik0OaEbXQ) - Python es un lenguage _indentado_, los bucles son muy versátiles y se realizan sobre _iterables_
+- **2.04 - Bucles y estructuras de control** [Video 17mins](https://youtu.be/L6oPhFIsvww) - Python es un lenguage _indentado_, los bucles son muy versátiles y se realizan sobre _iterables_
 
-- **2.05 - Diccionarios y tuplas** [Video* 9mins](https://youtu.be/74ym2aqpgV4) - Los diccionarios son una estructura de datos muy utilizada en Python.
+- **2.05 - Diccionarios y tuplas** [Video 9mins](https://youtu.be/xWCbhdMi37Q) - Los diccionarios son una estructura de datos muy utilizada en Python.
 
 ## Módulo 3. Generación de modelos predictivos
 
