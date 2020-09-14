@@ -147,6 +147,10 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **2.18 - Pandas - Miscelánea** [Video* 8mins](https://youtu.be/XTAzVQBUr8U) - Mencionamos algunas funcionalidades adicionales como agrupamiento, generación de dataframes y plotting.
 
+- **LAB 02.01 - 02.03** [Video* 5mins](https://youtu.be/xlRSvCI0cLg) - Descripción general de los laboratorios del módulo.
+
+- **LAB 02.05 - Card trick** [Video* 7mins](https://youtu.be/vqxvpwxuBNM) - Laboratorio basado en un truco de cartas.
+
 ## Módulo 3. Generación de modelos predictivos
 
 - **3.01 - Flujo de trabajo de Machine Learning** [Video 10mins](https://www.youtube.com/watch?v=VicKyzFGBM0) - Explicamos el flujo de trabajo general que se realiza al desarrollar modelos de Machine Learning.
