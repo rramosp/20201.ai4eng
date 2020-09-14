@@ -121,7 +121,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **2.05 - Diccionarios y tuplas** [Video 9mins](https://youtu.be/xWCbhdMi37Q) - Los diccionarios son una estructura de datos muy utilizada en Python.
 
-- **2.06 - Funciones, excepciones y comprehensions** [Video* 19nubs](https://youtu.be/1O6EvkxUV4o) - Definición y uso generalizado de funciones, excepcciones y las _comprehensions_ de listas, diccionarios y condicionales
+- **2.06 - Funciones, excepciones y comprehensions** [Video* 19mins](https://youtu.be/1O6EvkxUV4o) - Definición y uso generalizado de funciones, excepcciones y las _comprehensions_ de listas, diccionarios y condicionales
 
 - **2.07 - Introducción a Numpy** [Video* 15mins](https://youtu.be/DtzO7IQwxho) - Numpy es la librería de algebra linea y cómputo numérico de Python
 
