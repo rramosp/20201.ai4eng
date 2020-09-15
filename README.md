@@ -149,7 +149,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **LAB 02.01 - 02.03** [Video* 5mins](https://youtu.be/xlRSvCI0cLg) - Descripción general de los laboratorios del módulo.
 
-- **LAB 02.05 - Card trick** [Video* 7mins](https://youtu.be/vqxvpwxuBNM) - Laboratorio basado en un truco de cartas.
+- **LAB 02.04 - Card trick** [Video* 7mins](https://youtu.be/vqxvpwxuBNM) - Laboratorio basado en un truco de cartas.
 
 ## Módulo 3. Generación de modelos predictivos
 
