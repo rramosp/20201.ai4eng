@@ -105,7 +105,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **1.06 - Talleres y plataforma de autocorrección** [Video 15mins](https://www.youtube.com/watch?v=Jsn77W9j_X8) - Explicamos cómo completar los talleres y acceder a la plataforma donde podrás ver tu avance en el curso.
 
-- **LAB 01.01 - PRACTICE SUBMISSION** [Video* 9mins](https://youtu.be/4tS3BjfxM78) - Este primer taller sirve para familiarizarse con el mecanismo de envío de talleres sobre la plataforma de corrección automática.
+- **LAB 01.01 - PRACTICE SUBMISSION** [Video 9mins](https://www.youtube.com/watch?v=XRxmsSxelFk) - Este primer taller sirve para familiarizarse con el mecanismo de envío de talleres sobre la plataforma de corrección automática.
 
 - **LAB 01.02 - METRICS** [Video 22mins](https://www.youtube.com/watch?v=8mp9T1v9ezc) - Cálculo de métricas de desempeño sobre tareas de Kaggle.
 
@@ -121,7 +121,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **2.05 - Diccionarios y tuplas** [Video 9mins](https://youtu.be/xWCbhdMi37Q) - Los diccionarios son una estructura de datos muy utilizada en Python.
 
-- **2.06 - Funciones, excepciones y comprehensions** [Video* 19mins](https://youtu.be/1O6EvkxUV4o) - Definición y uso generalizado de funciones, excepcciones y las _comprehensions_ de listas, diccionarios y condicionales
+- **2.06 - Funciones, excepciones y comprehensions** [Video 19mins](https://youtu.be/ej298936kv8) - Definición y uso generalizado de funciones, excepcciones y las _comprehensions_ de listas, diccionarios y condicionales
 
 - **2.07 - Introducción a Numpy** [Video* 15mins](https://youtu.be/DtzO7IQwxho) - Numpy es la librería de algebra linea y cómputo numérico de Python
 
@@ -149,7 +149,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **LAB 02.01 - 02.03** [Video* 5mins](https://youtu.be/xlRSvCI0cLg) - Descripción general de los laboratorios del módulo.
 
-- **LAB 02.04 - Card trick** [Video* 7mins](https://youtu.be/vqxvpwxuBNM) - Laboratorio basado en un truco de cartas.
+- **LAB 02.04 - Card trick** [Video 7mins](https://www.youtube.com/watch?v=GUx94AdHxHw) - Laboratorio basado en un truco de cartas.
 
 ## Módulo 3. Generación de modelos predictivos
 
@@ -171,9 +171,9 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **3.09 - Algoritmos supervisados. Support Vector Machines** [Video 12mins](https://www.youtube.com/watch?v=dYGW7MDgS40) - Explicamos la idea de transformación de características y la intuición y utilización de las máquinas de soporte vectorial para clasificación.
 
-- **LAB 03.01 - MODEL GENERATION** [Video* 16mins](https://youtu.be/trD-zmv6Rww) - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
+- **LAB 03.01 - MODEL GENERATION** [Video 16mins](https://www.youtube.com/watch?v=Zj77iukp1LU) - Desarrollamos un algoritmo muy sencillo para calibrar un modelo lineal.
 
-- **LAB 03.02 - TIME SERIES MODEL** [Video* 16mins](https://youtu.be/y6KNspJuEO0) - Creamos un dataset desde una serie temporal, aplicamos un modelo de regresión lineal y medimos su desempeño.
+- **LAB 03.02 - TIME SERIES MODEL** [Video 16mins](https://www.youtube.com/watch?v=Ts1VXW30hn8) - Creamos un dataset desde una serie temporal, aplicamos un modelo de regresión lineal y medimos su desempeño.
 
 ## Módulo 4. Gestión de datos
 
