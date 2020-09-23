@@ -195,4 +195,4 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **4.09 - Evaluación de técnicas de imputación de datos** [POR GRABAR] - Aplicamos los tests de hipótesis para evaluar qué técnica de imputación de datos es más conveniente.
 
-- **LAB 04.01 y 04.02** [Video 9mins]() - Talleres de carga y manipulación de datos y de construcción de datasets.
+- **LAB 04.01 y 04.02** [Video 9mins](https://youtu.be/B5unHlJu8hA) - Talleres de carga y manipulación de datos y de construcción de datasets.
