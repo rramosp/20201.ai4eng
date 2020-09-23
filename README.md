@@ -187,6 +187,10 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **4.05 - Reparación de datos faltantes** [Video** 13mins](https://youtu.be/Edo2BGdHZs8) - Mostramos distintas alternativas para la imputación de datos faltantes.
 
-- **4.06 - Tests de hipótesis** [POR GRABAR] - Recordamos la intuición y mecanismo de los test de hipótesis para evaluar estadísticamente distintas alternativas
+- **4.06 - Tests de hipótesis - Intuición** [Video* 18mins](https://youtu.be/MEjoIPH8jSs) - Recordamos la intuición y mecanismo de los test de hipótesis para evaluar estadísticamente distintas alternativas
+
+- **4.07 - Tests de hipótesis - Terminología** [Video* 8mins](https://youtu.be/n_PH2tBgy_g) - Vinculamos la intuición con la práctica estándar de tests de hipótesis
+
+- **4.08 - Tests de hipótesis - Comparación de dos grupos** [Video* 18mins]() - Ilustramos el mismo procedimiento de simulación con un problema distinto.
 
 - **4.07 - Evaluación de técnicas de imputación de datos** [POR GRABAR] - Aplicamos los tests de hipótesis para evaluar qué técnica de imputación de datos es más conveniente.
