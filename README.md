@@ -191,7 +191,7 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **4.07 - Tests de hipótesis - Terminología** [Video* 8mins](https://youtu.be/n_PH2tBgy_g) - Vinculamos la intuición con la práctica estándar de tests de hipótesis
 
-- **4.08 - Tests de hipótesis - Comparación de dos grupos** [Video* 18mins]() - Ilustramos el mismo procedimiento de simulación con un problema distinto.
+- **4.08 - Tests de hipótesis - Comparación de dos grupos** [Video* 18mins](https://youtu.be/rpzGAcdNopw) - Ilustramos el mismo procedimiento de simulación con un problema distinto.
 
 - **4.09 - Evaluación de técnicas de imputación de datos** [POR GRABAR] - Aplicamos los tests de hipótesis para evaluar qué técnica de imputación de datos es más conveniente.
 
