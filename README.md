@@ -193,4 +193,6 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **4.08 - Tests de hipótesis - Comparación de dos grupos** [Video* 18mins]() - Ilustramos el mismo procedimiento de simulación con un problema distinto.
 
-- **4.07 - Evaluación de técnicas de imputación de datos** [POR GRABAR] - Aplicamos los tests de hipótesis para evaluar qué técnica de imputación de datos es más conveniente.
+- **4.09 - Evaluación de técnicas de imputación de datos** [POR GRABAR] - Aplicamos los tests de hipótesis para evaluar qué técnica de imputación de datos es más conveniente.
+
+- **LAB 04.01 y 04.02** [Video 9mins]() - Talleres de carga y manipulación de datos y de construcción de datasets.
