@@ -123,15 +123,15 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 
 - **2.06 - Funciones, excepciones y comprehensions** [Video 19mins](https://youtu.be/ej298936kv8) - Definición y uso generalizado de funciones, excepcciones y las _comprehensions_ de listas, diccionarios y condicionales
 
-- **2.07 - Introducción a Numpy** [Video* 15mins](https://youtu.be/4VsmjHZLQhM) - Numpy es la librería de algebra linea y cómputo numérico de Python
+- **2.07 - Introducción a Numpy** [Video 15mins](https://youtu.be/4VsmjHZLQhM) - Numpy es la librería de algebra linea y cómputo numérico de Python
 
-- **2.08 - Numpy - Indexado de matrices** [Video* 10mins](https://youtu.be/FsQB4hYRv2c) - La sintaxis de indexado de estructuras de Numpy es muy potente y flexible.
+- **2.08 - Numpy - Indexado de matrices** [Video 10mins](https://youtu.be/FsQB4hYRv2c) - La sintaxis de indexado de estructuras de Numpy es muy potente y flexible.
 
 - **2.09 - Numpy - Imágenes como matrices** [Video* 17mins](https://youtu.be/V1N_D2672JQ) - Mostramos cómo a través de la manipulación de matrices estándar de Numpy se pueden realizar muchas operaciones con un significado concreto en cada dominio de aplicaicón, en este caso, con imágenes.
 
-- **2.10 - Numpy - Vectorización y broadcasting** [Video* 17mins](https://youtu.be/olP4ofwUfsc) - Las operaciones vectorizadas son clave para un uso eficiente de Numpy. Además, el mecanismo de _broadcasting_ nos permite extender las operaciones sobre matrices a un gran número de casos.
+- **2.10 - Numpy - Vectorización y broadcasting** [Video 17mins](https://youtu.be/olP4ofwUfsc) - Las operaciones vectorizadas son clave para un uso eficiente de Numpy. Además, el mecanismo de _broadcasting_ nos permite extender las operaciones sobre matrices a un gran número de casos.
 
-- **2.11 - Numpy - Argumentos por referncia** [Video* 6mins](https://youtu.be/azeWjbaiCOM) - La matrices de Numpy y la mayoría de los objetos en Python se pasan por _referencia_ cuando los usamos en funciones. Entender este mecanismo es clave para evitar errores o efectos indeseados
+- **2.11 - Numpy - Argumentos por referncia** [Video 6mins](https://youtu.be/azeWjbaiCOM) - La matrices de Numpy y la mayoría de los objetos en Python se pasan por _referencia_ cuando los usamos en funciones. Entender este mecanismo es clave para evitar errores o efectos indeseados
 
 - **2.12 - Matplotlib** [Video* 3mins](https://youtu.be/doAm-t6IZUI) - Hacemos una breve introducción a Matplotlib, la librería para hacer gráficos, para que a partir de aquí puedas seguir buscando y aprendiendo como usarla.
 
