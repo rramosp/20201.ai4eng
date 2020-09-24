@@ -194,3 +194,9 @@ Deberás de depositar el certificado de compleción en un fichero llamado **CERT
 - **4.08 - Tests de hipótesis - Comparación de dos grupos** [Video* 18mins](https://youtu.be/rpzGAcdNopw) - Ilustramos el mismo procedimiento de simulación con un problema distinto.
 
 - **LAB 04.01 y 04.02** [Video* 9mins](https://youtu.be/B5unHlJu8hA) - Talleres de carga y manipulación de datos y de construcción de datasets.
+
+## Módulo 5. Gestión de modelos
+
+- **5.01 - ¿Qué es gestión de modelos?** [Video* 8mins](https://youtu.be/z_n3_3HIEiE) - Presentación y objetivos de este módulo.
+
+- **5.02 - Objetivos de negocio** [Video* 20mins](https://youtu.be/nLlleK3HqQE) - Mostramos cómo un modelo predictivo se integra con un objetivo de negocio para el cual es instrumental.
